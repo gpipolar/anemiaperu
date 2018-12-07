@@ -92,3 +92,11 @@ h1,h2{
 	padding:50px 40px;}
 
 #comillas {padding:30px, 60px;}
+
+table{border-collapse:collapse; background-color:white; margin:50px; border-style:double; text-align:left;}
+th, td {border:solid 1px black ; padding:5px;}
+tr:nth-child(even){background-color:#ddd;}
+
+.bluecolor { color:#1257C8; }
+.redcolor { color:#C81212; }
+
